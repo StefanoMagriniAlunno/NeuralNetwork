@@ -40,7 +40,7 @@ fi
 # expected prerequisites
 #################################
 python3_version="3.10.12"
-virtualenv_version="20.26.3"
+virtualenv_version="20.26.6"
 driver_nvidia_minversion="550.54.14"  # check \url{https://docs.nvidia.com/cuda/archive/12.4.0/cuda-toolkit-release-notes/index.html}
 
 
